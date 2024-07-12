@@ -1,4 +1,4 @@
-# Welcome to Concept Collective
+## Welcome to Concept Collective
 
 #### About Us
 
